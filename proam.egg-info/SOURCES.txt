@@ -1,0 +1,6 @@
+bin/proam
+proam.egg-info/PKG-INFO
+proam.egg-info/SOURCES.txt
+proam.egg-info/dependency_links.txt
+proam.egg-info/requires.txt
+proam.egg-info/top_level.txt
