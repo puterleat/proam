@@ -1,1 +1,3 @@
-GPL3
+All code: GPL3
+
+Fuji profile copyright Proam Imaging Ltd, all rights reserved.
