@@ -4,7 +4,7 @@ from distutils.core import setup
 
 setup(
     name='proam',
-    version='0.0.1',
+    version='0.0.2',
     author='Ben Whalley',
     author_email='benwhalley@gmail.com',
     package_data={'':['*']},
